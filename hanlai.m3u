@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1  tvg-id="SCTV" tvg-logo="https://hometv.pw/logo/lokal/sctv.png" group-title="Indonesia",SCTV
+http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/DUY5WXf.png" group-title="Indonesia",AKTV (720p)
 https://e.siar.us/live/aktv.m3u8?checkedby:iptvcat.org
 #EXTINF:-1  group-title="Indonesia",Al-Iman TV (720p)
