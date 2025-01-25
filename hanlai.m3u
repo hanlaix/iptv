@@ -1,24 +1,25 @@
 #EXTM3U
-#EXTINF:-1  tvg-logo="https://i.imgur.com/DUY5WXf.png" group-title="Indonesia",AKTV (720p)
+#EXTINF:-1  tvg-id="100% Automoto SPORT" group-title="Premium",100% Automoto SPORT
+http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+#EXTINF:-1  tvg-id="AKTV (720p)" tvg-logo="https://i.imgur.com/DUY5WXf.png" group-title="Indonesia",AKTV (720p)
 https://e.siar.us/live/aktv.m3u8?checkedby:iptvcat.org
-#EXTINF:-1  group-title="Indonesia",Al-Iman TV (720p)
+#EXTINF:-1  tvg-id="Al-Iman TV (720p)" group-title="Indonesia",Al-Iman TV (720p)
 https://tv.aliman.id/aliman/live.m3u8?checkedby:iptvcat.org
-#EXTINF:-1  group-title="Indonesia",Alwafa Tarim TV (Am Media) (720p)
+#EXTINF:-1  tvg-id="Alwafa Tarim TV (Am Media) (720p)" group-title="Indonesia",Alwafa Tarim TV (Am Media) (720p)
 https://ammedia.siar.us/ammedia/live/playlist.m3u8?checkedby:iptvcat.org
 #EXTINF:-1  tvg-id="ANTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/antv.png?raw=true" group-title="Indonesia",ANTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://op-group1-swiftservehd-1.dens.tv/s/s07/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/fpFs6Ay.png" group-title="Indonesia",Bandung TV
+#EXTINF:-1  tvg-id="Bandung TV" tvg-logo="https://i.imgur.com/fpFs6Ay.png" group-title="Indonesia",Bandung TV
 http://202.150.153.254:65500/bandungtvWEBSITE.m3u8?checkedby:iptvcat.org
-#EXTINF:-1  tvg-logo="https://i.imgur.com/tbtF40p.png" group-title="Indonesia",Banten TV (720p) [Not 24/7]
+#EXTINF:-1  tvg-id="Banten TV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/tbtF40p.png" group-title="Indonesia",Banten TV (720p) [Not 24/7]
 https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8?checkedby:iptvcat.org
-#EXTINF:-1  tvg-logo="https://i.imgur.com/REuN9RR.png" group-title="Indonesia",BBC News Asia Pacific (720p)
+#EXTINF:-1  tvg-id="BBC News Asia Pacific (720p)" tvg-logo="https://i.imgur.com/REuN9RR.png" group-title="Indonesia",BBC News Asia Pacific (720p)
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8?checkedby:iptvcat.org
-#EXTINF:-1  tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040323.png" group-title="Indonesia",BeritaSatu
+#EXTINF:-1  tvg-id="BeritaSatu" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040323.png" group-title="Indonesia",BeritaSatu
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8?checkedby:iptvcat.org
-#EXTINF:-1  tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040323.png" group-title="Indonesia",BeritaSatu
+#EXTINF:-1  tvg-id="BeritaSatu" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040323.png" group-title="Indonesia",BeritaSatu
 https://b1news.beritasatumedia.com/Beritasatu/B1News_320x240.m3u8?checkedby:iptvcat.org
-#EXTINF:-1  tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040323.png" group-title="Indonesia",BeritaSatu
+#EXTINF:-1  tvg-id="BeritaSatu" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040323.png" group-title="Indonesia",BeritaSatu
 https://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8?checkedby:iptvcat.org
 #EXTINF:-1  tvg-id="BTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/btv.png?raw=true" group-title="Indonesia",BTV
 #KODIPROP:inputstream=inputstream.adaptive
@@ -26,27 +27,28 @@ https://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8?checkedby:iptv
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 #EXTINF:-1  tvg-id="BTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/btv.png?raw=true" group-title="Indonesia",BTV 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://op-group1-swiftservehd-1.dens.tv/h/h210/index.m3u8
-#EXTINF:-1  group-title="Indonesia",Bungo TV (480p) [Not 24/7]
+#EXTINF:-1  tvg-id="Bungo TV (480p) [Not 24/7]" tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/e/e1/Cropped-bungotv_webiste.png/revision/latest?cb=20231218060512" group-title="Indonesia",Bungo TV (480p) [Not 24/7]
 https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8?checkedby:iptvcat.org
 #EXTINF:-1  tvg-id="CinemaWorld.my" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/cinemaworld.png?raw=true" group-title="Premium",CinemaWorld
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://op-group1-swiftservehd-1.dens.tv/h/h202/index.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="Indonesia",CNBC Indonesia
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8?checkedby:iptvcat.org
-#EXTINF:-1  group-title="Indonesia",CNBC Indonesia
+#EXTINF:-1  tvg-id="CNBC Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="Indonesia",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8?checkedby:iptvcat.org
-#EXTINF:-1  group-title="Indonesia",CNBC Indonesia
+#EXTINF:-1  tvg-id="CNBC Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="Indonesia",CNBC Indonesia
 http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w528900641_b384000_sleng.m3u8
-#EXTINF:-1  group-title="Indonesia",CNBC Indonesia 1
+#EXTINF:-1  tvg-id="CNBC Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="Indonesia",CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8?checkedby:iptvcat.org
+#EXTINF:-1  tvg-id="CNBC Indonesia 1" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="Indonesia",CNBC Indonesia 1
 http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w528900641_b384000_sleng.m3u8?checkedby:iptvcat.org
+#EXTINF:-1  tvg-id="CNN INDONESIA HD" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.abu.org.my%2Fimages%2Farticles%2Fnews%2Fcnn-indonesia-logo.jpg&f=1&nofb=1&ipt=3ef39500918ed1b3fea626c02b4b68e498ee117aa51f09958639afc6cd02e8e3&ipo=images" group-title="Indonesia",CNN INDONESIA HD
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1705215623_b384000_sleng.m3u8
+#EXTINF:-1  tvg-id="CNN TV" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftoppng.com%2Fuploads%2Fpreview%2Fcnn-international-logo-png-cnn-logo-11562982950rfhtq9kum0.png&f=1&nofb=1&ipt=097767defc8a89e62d3598a16909d62aff1d15bbb21814f76c6dbc0e41cfcd63&ipo=images" group-title="Indonesia",CNN TV
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1299546647_b384000_sleng.m3u8
 #EXTINF:-1  tvg-id="DAAITV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/daaitv.png?raw=true" group-title="Indonesia",DAAI TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://op-group1-swiftservesd-1.dens.tv/s/s182/index.m3u8
-#EXTINF:-1  group-title="Indonesia",Dhamma TV (720p) [Not 24/7]
+#EXTINF:-1  tvg-id="Dhamma TV (720p) [Not 24/7]" tvg-logo="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.dhammatv.com%2Fimages%2F02.png&f=1&nofb=1&ipt=68ee6164992086d2faeb2c70a058f3864ece09df5482e30fded9626e34a63400&ipo=images" group-title="Indonesia",Dhamma TV (720p) [Not 24/7]
 https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8?checkedby:iptvcat.org
-#EXTINF:-1  tvg-logo="https://i.imgur.com/4Khyyfh.png" group-title="Indonesia",Dhoho TV (720p)
+#EXTINF:-1  tvg-id="Dhoho TV (720p)" tvg-logo="https://i.imgur.com/4Khyyfh.png" group-title="Indonesia",Dhoho TV (720p)
 https://dhohotv.siar.us/dhohotv/live/playlist.m3u8?checkedby:iptvcat.org
 #EXTINF:-1  tvg-id="IDTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/idtv.png?raw=true" group-title="Indonesia",IDTV
 #KODIPROP:inputstream=inputstream.adaptive
@@ -54,30 +56,28 @@ https://dhohotv.siar.us/dhohotv/live/playlist.m3u8?checkedby:iptvcat.org
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 #EXTINF:-1  tvg-id="IDTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/idtv.png?raw=true" group-title="Indonesia",IDTV 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://op-group1-swiftservehd-1.dens.tv/h/h209/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/Kt2kOGH.png" group-title="Indonesia",Jawa Pos TV (720p) [Not 24/7]
+#EXTINF:-1  tvg-id="IMTV.id" group-title="MUSIC",IMTV
+https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
+#EXTINF:-1  tvg-id="Jawa Pos TV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/Kt2kOGH.png" group-title="Indonesia",Jawa Pos TV (720p) [Not 24/7]
 https://jawapostv.siar.us/jawapostv/live/playlist.m3u8?checkedby:iptvcat.org
-#EXTINF:-1  group-title="Indonesia",Kilisuci TV
+#EXTINF:-1  tvg-id="KBS WORLD" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.tvdigitaldivide.it%2Fwp-content%2Fuploads%2F2015%2F09%2FKBS_World2.png&f=1&nofb=1&ipt=e5d118d937394611532301ba3eade4dc727cfd1980405e1685cf1722dd71e97b&ipo=images" group-title="Indonesia",KBS WORLD
+http://edge.linknetott.swiftserve.com/channelgroup5/cg542production/ch262/03.m3u8
+#EXTINF:-1  tvg-id="KBS WORLD" tvg-logo="https://hometv.pw/logo/entertainment/kbs_world.png" group-title="Premium",KBS WORLD
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
+#EXTINF:-1  tvg-id="Kilisuci TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e4/Kilisuci_TV_NEW_LOGO_2016.png" group-title="Indonesia",Kilisuci TV
 https://5bf7b725107e5.streamlock.net:443/kstv/kstv/playlist.m3u8?checkedby:iptvcat.org
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e4/Kilisuci_TV_NEW_LOGO_2016.png" group-title="Indonesia",Kilisuci TV
+#EXTINF:-1  tvg-id="Kilisuci TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e4/Kilisuci_TV_NEW_LOGO_2016.png" group-title="Indonesia",Kilisuci TV
 https://5bf7b725107e5.streamlock.net/kstv/kstv/playlist.m3u8?checkedby:iptvcat.org
-#EXTINF:-1  tvg-id="KIX.hk" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/kix.png?raw=true" group-title="Premium",KIX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
-https://op-group1-swiftservehd-1.dens.tv/h/h220/index.m3u8
 #EXTINF:-1  tvg-id="KompasTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/kompastv.png?raw=true" group-title="Indonesia",Kompas TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://op-group1-swiftservehd-1.dens.tv/h/h234/index.m3u8
 #EXTINF:-1  tvg-id="KompasTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/kompastv.png?raw=true" group-title="Indonesia",Kompas TV 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://op-group1-swiftservehd-1.dens.tv/s/s104/index.m3u8
 #EXTINF:-1  tvg-id="KPlus.sg" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/kplus.png?raw=true" group-title="Premium",K-Plus
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://op-group1-swiftservehd-1.dens.tv/h/h219/index.m3u8
 #EXTINF:-1  tvg-id="KPlus.sg" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/kplus.png?raw=true" group-title="Premium",K-Plus 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://op-group1-swiftservehd-1.dens.tv/h/h08/index.m3u8
-#EXTINF:-1  tvg-logo="https://lingkartv.com/assets/img/logo-square.png" group-title="Indonesia",Lingkar TV (1080p)
+#EXTINF:-1  tvg-id="Lingkar TV (1080p)" tvg-logo="https://lingkartv.com/assets/img/logo-square.png" group-title="Indonesia",Lingkar TV (1080p)
 https://lingkartv.my.id/hls/lingkartv.m3u8?checkedby:iptvcat.org
 #EXTINF:-1  tvg-id="MagnaChannel.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/magna.png?raw=true" group-title="Indonesia",Magna Channel
 #KODIPROP:inputstream=inputstream.adaptive
@@ -85,7 +85,6 @@ https://lingkartv.my.id/hls/lingkartv.m3u8?checkedby:iptvcat.org
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 #EXTINF:-1  tvg-id="MagnaChannel.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/magna.png?raw=true" group-title="Indonesia",Magna Channel 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://op-group1-swiftservehd-1.dens.tv/h/h24/index.m3u8
 #EXTINF:-1  tvg-id="MetroTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/metrotv.png?raw=true" group-title="Indonesia",Metro TV
 #KODIPROP:inputstream=inputstream.adaptive
@@ -93,88 +92,97 @@ https://op-group1-swiftservehd-1.dens.tv/h/h24/index.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
 #EXTINF:-1  tvg-id="MetroTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/metrotv.png?raw=true" group-title="Indonesia",Metro TV 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8
 #EXTINF:-1  tvg-id="MetroTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/metrotv.png?raw=true" group-title="Indonesia",Metro TV 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://op-group1-swiftservehd-1.dens.tv/h/h211/index.m3u8
+#EXTINF:-1  tvg-id="MNC TV" tvg-logo="https://hometv.pw/logo/lokal/mnctv.png" group-title="Indonesia",MNC TV (R+)
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTVLCOPT:http-user-agent=android-R+
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 #EXTINF:-1  tvg-id="MyCinema.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/mycinema.png?raw=true" group-title="Premium",My Cinema
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8
 #EXTINF:-1  tvg-id="MyCinemaAsia.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/mycinemaasia.png?raw=true" group-title="Premium",My Cinema Asia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8
 #EXTINF:-1  tvg-id="MyFamily.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/myfamilychannel.png?raw=true" group-title="Premium",My Family
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8
 #EXTINF:-1  tvg-id="MyKidz.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/mykidz.png?raw=true" group-title="Premium",My Kidz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8
 #EXTINF:-1  tvg-id="NET.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/net.png?raw=true" group-title="Indonesia",NET.
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://op-group1-swiftservehd-1.dens.tv/h/h223/index.m3u8
 #EXTINF:-1  tvg-id="NET.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/net.png?raw=true" group-title="Indonesia",NET. 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8
+#EXTINF:-1  tvg-id="NOW 70" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a7d0a511226fce3ea3842a91056762d9.png" group-title="Music",NOW 70
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1  tvg-id="NOW 80" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7330c92fcbc8b452e64e160cf048cc21.png" group-title="Music",NOW 80
+https://lightning-now80s-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1  tvg-id="NOW ROCK" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/nowrock.png" group-title="Music",NOW ROCK
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1  tvg-id="NusantaraTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/nusantaratv.png?raw=true" group-title="Indonesia",Nusantara TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1XSf22bM/PSJTV-LOGO.png" group-title="Indonesia",PSJ TV (1080p)
+#EXTINF:-1  tvg-id="ONE" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.wikia.nocookie.net%2Fdxs%2Fimages%2F6%2F6c%2FOne_TV_Logo_2020.png%2Frevision%2Flatest%3Fcb%3D20220930140930&f=1&nofb=1&ipt=3bc6aa6cb2ed7a8c7c62da053b1a44c05587ee692f56b3278b929ca4f76cb14b&ipo=images" group-title="Premium",ONE
+http://rtmp.one.by:1300
+#EXTINF:-1  tvg-id="PSJ TV (1080p)" tvg-logo="https://i.postimg.cc/1XSf22bM/PSJTV-LOGO.png" group-title="Indonesia",PSJ TV (1080p)
 https://play.accolamedia.id/accola/psj.stream/playlist.m3u8?checkedby:iptvcat.org
 #EXTINF:-1  tvg-id="RajawaliTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/rtv.png?raw=true" group-title="Indonesia",Rajawali TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8
+#EXTINF:-1  tvg-id="RCTI" tvg-logo="https://hometv.pw/logo/lokal/rcti.png" group-title="Indonesia",RCTI (R+)
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTVLCOPT:http-user-agent=android-R+
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+#EXTINF:-1  tvg-id="REDBULL TV" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogodix.com%2Flogo%2F1353127.jpg&f=1&nofb=1&ipt=1e5e046badfe1b3c1974c6be1388f50fb754fde1b67f76e26daff7c8e8437690&ipo=images" group-title="Premium",REDBULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1  tvg-id="RodjaTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/rodjatv.png?raw=true" group-title="Indonesia",Rodja TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 https://rodjatv.com/rodjatv/live.m3u8
 #EXTINF:-1  tvg-id="RodjaTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/rodjatv.png?raw=true" group-title="Indonesia",Rodja TV 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://op-group1-swiftservehd-1.dens.tv/h/h233/index.m3u8
 #EXTINF:-1  tvg-id="SCTV" tvg-logo="https://hometv.pw/logo/lokal/sctv.png" group-title="Indonesia",SCTV
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
-#EXTINF:-1  tvg-id="SemarangTV.id" group-title="Indonesia",Semarang TV (720p)
+#EXTINF:-1  tvg-id="SemarangTV.id" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fplay-lh.googleusercontent.com%2F3PpZ0l_QC0kWKudv1Ym5eQiBEJy1tfZEgnyjXr4gSRMU64_YsmCllFWgyRE-WLHqyGs&f=1&nofb=1&ipt=4e3d9e7570b556ef5eb8887109ba911b40eaf6491f591de11b1ee7931a3d747f&ipo=images" group-title="Indonesia",Semarang TV (720p)
 http://116.254.112.74/hls/cakralive.m3u8
-#EXTINF:-1  tvg-id="TransTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/transtv.png?raw=true" group-title="Indonesia",Trans TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/512px-Trans_TV_2013.svg.png" group-title="Indonesia",Trans TV (720p)
+#EXTINF:-1  tvg-id="Trace Urban" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/6bf58983d255ceb95c15e53ba64237db.png" group-title="Music",Trace Urban
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1  tvg-id="Trans TV (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/512px-Trans_TV_2013.svg.png" group-title="Indonesia",Trans TV (720p)
 https://video.detik.com/transtv/smil:transtv.smil/index.m3u8?checkedby:iptvcat.org
 #EXTINF:-1  tvg-id="Trans7.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/trans7.png?raw=true" group-title="Indonesia",Trans7
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/IGIX3o8.jpg" group-title="Indonesia",TV Kesehatan (1080p)
+#EXTINF:-1  tvg-id="TransTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/transtv.png?raw=true" group-title="Indonesia",Trans TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+#EXTINF:-1  tvg-id="TV Kesehatan (1080p)" tvg-logo="https://i.imgur.com/IGIX3o8.jpg" group-title="Indonesia",TV Kesehatan (1080p)
 https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8?checkedby:iptvcat.org
-#EXTINF:-1  tvg-logo="https://i.imgur.com/rR2iPBk.png" group-title="Indonesia",TV Mu (720p) [Not 24/7]
+#EXTINF:-1  tvg-id="TV Mu (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/rR2iPBk.png" group-title="Indonesia",TV Mu (720p) [Not 24/7]
 https://e.siar.us/live/tvmu.m3u8?checkedby:iptvcat.org
+#EXTINF:-1  tvg-id="TVKU" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fd3%2Fd3%2Fb6%2Fd3d3b652240bd60df6246205cc7ef394.png&f=1&nofb=1&ipt=dd8c980dd7edfc033a7d748ae541c387351aaa156dc4431fc80a6dc1519a3616&ipo=images" group-title="Indonesia",TVKU
+http://103.30.1.14:8080/hls/live.m3u8
 #EXTINF:-1  tvg-id="tvNAsia.hk" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/tvn.png?raw=true" group-title="Indonesia",tvN Asia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://op-group1-swiftservehd-1.dens.tv/h/h20/index.m3u8
 #EXTINF:-1  tvg-id="tvNMoviesAsia.hk" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/tvnmovies.png?raw=true" group-title="Indonesia",tvN Movies Asia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://op-group1-swiftservehd-1.dens.tv/h/h214/index.m3u8
 #EXTINF:-1  tvg-id="tvOne.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/tvone.png?raw=true" group-title="Indonesia",tvOne
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://op-group1-swiftservehd-1.dens.tv/h/h224/index.m3u8
 #EXTINF:-1  tvg-id="tvOne.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/tvone.png?raw=true" group-title="Indonesia",tvOne 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8
-#EXTINF:-1  group-title="Indonesia",TVR Parlemen (720p) [Not 24/7]
+#EXTINF:-1  tvg-id="TVR Parlemen (720p) [Not 24/7]" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.wikia.nocookie.net%2Flogopedia%2Fimages%2F2%2F2c%2FTVR_Parlemen.jpg%2Frevision%2Flatest%2Fscale-to-width-down%2F200%3Fcb%3D20220718082041&f=1&nofb=1&ipt=6fabeb2648aa6a12157fd292063e54c31ceab66b16512d37c6d2fad54ac0d08b&ipo=images" group-title="Indonesia",TVR Parlemen (720p) [Not 24/7]
 http://103.18.181.69:1935/golive/livestream/playlist.m3u8?checkedby:iptvcat.org
+#EXTINF:-1  tvg-id="TVRI World" tvg-logo="https://i.imgur.com/h3RldTO.png" group-title="Indonesia",TVRI World
+https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8?checkedby:iptvcat.org
 #EXTINF:-1  tvg-id="TVRINasional.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/tvri.png?raw=true" group-title="Indonesia",TVRI Nasional
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 #EXTINF:-1  tvg-id="TVRINasional.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/tvri.png?raw=true" group-title="Indonesia",TVRI Nasional 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://op-group1-swiftservesd-1.dens.tv/s/s11/index.m3u8
 #EXTINF:-1  tvg-id="TVRISport.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/tvrisport.png?raw=true" group-title="Indonesia",TVRI Sport
 #KODIPROP:inputstream=inputstream.adaptive
@@ -182,33 +190,19 @@ https://op-group1-swiftservesd-1.dens.tv/s/s11/index.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 #EXTINF:-1  tvg-id="TVRISport.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/tvrisport.png?raw=true" group-title="Indonesia",TVRI Sport 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://op-group1-swiftservehd-1.dens.tv/h/h238/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/h3RldTO.png" group-title="Indonesia",TVRI World
-https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8?checkedby:iptvcat.org
 #EXTINF:-1  tvg-id="TVRIWorld.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/tvriworld.png?raw=true" group-title="Indonesia",TVRI World
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 #EXTINF:-1  tvg-id="VTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/vtv.png?raw=true" group-title="Indonesia",VTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://flv.intechmedia.net/live/ch107.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/Uv8RWks.png" group-title="Indonesia",Wesal TV (720p) [Not 24/7]
+#EXTINF:-1  tvg-id="Wesal TV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/Uv8RWks.png" group-title="Indonesia",Wesal TV (720p) [Not 24/7]
 https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8?checkedby:iptvcat.org
-#EXTINF:-1  group-title="Indonesia",Zee Bioskop (360p) [Geo-blocked]
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch161)/index.m3u8?checkedby:iptvcat.org
-#EXTINF:-1  group-title="Indonesia",TVKU http://103.30.1.14:8080/hls/live.m3u8
-http://103.30.1.14:8080/hls/live.m3u8
-#EXTINF:-1  group-title="Indonesia",group-title="LOKAL"CNN TV https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1299546647_b384000_sleng.m3u8
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1299546647_b384000_sleng.m3u8
-#EXTINF:-1  group-title="Indonesia",CNN INDONESIA HD
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1705215623_b384000_sleng.m3u8
-#EXTINF:-1  group-title="Indonesia",KBS WORLD
-http://edge.linknetott.swiftserve.com/channelgroup5/cg542production/ch262/03.m3u8
-#EXTINF:-1  group-title="Premium",REDBULL TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1  group-title="Premium",100% Automoto SPORT
-http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
-#EXTINF:-1  group-title="Premium",ONE
-http://rtmp.one.by:1300
+#EXTINF:-1  tvg-id="XITE80sFLASHBLACK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB320000647_20231024T231630SQUARE.png_20231024231631.png" group-title="Music",XITE 80s FLASHBLACK
+https://d19xo51z4ig5jl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/80sFlashback-Canada-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1  tvg-id="XITE80sTHROWBLACK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200007AK_20231024T231632SQUARE.png_20231024231633.png" group-title="Music",XITE 90s THROWBACK
+https://d1xhnb4ptk05mw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/90sThrowback-Canada-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1  tvg-id="XITEROCKON" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2300004KV_20231024T231621SQUARE.png_20231024231622.png" group-title="Music",XITE ROCK ON
+https://delrqw6rbggz6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/RockMetal-Canada-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
