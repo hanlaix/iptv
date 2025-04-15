@@ -63,6 +63,9 @@ https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h209/index.m3u8
 #EXTINF:-1  tvg-id="IMTV.id" group-title="MUSIC",IMTV
 https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
+#EXTINF:-1 tvg-name="INDOSIAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/3/39/20180120104425%21INDOSIAR_Logo.png/120px-INDOSIAR_Logo.png" group-title="Indonesia",ANTV (D*)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 #EXTINF:-1  tvg-id="Jawa Pos TV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/Kt2kOGH.png" group-title="Indonesia",Jawa Pos TV (720p) [Not 24/7]
 https://jawapostv.siar.us/jawapostv/live/playlist.m3u8?checkedby:iptvcat.org
 #EXTINF:-1  tvg-id="KBS WORLD" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.tvdigitaldivide.it%2Fwp-content%2Fuploads%2F2015%2F09%2FKBS_World2.png&f=1&nofb=1&ipt=e5d118d937394611532301ba3eade4dc727cfd1980405e1685cf1722dd71e97b&ipo=images" group-title="Indonesia",KBS WORLD
