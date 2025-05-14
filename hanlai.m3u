@@ -13,6 +13,8 @@ https://ammedia.siar.us/ammedia/live/playlist.m3u8?checkedby:iptvcat.org
 https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
 #EXTINF:-1  tvg-id="ANTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/antv.png?raw=true" group-title="Indonesia",ANTV
 https://op-group1-swiftservehd-1.dens.tv/s/s07/index.m3u8
+#EXTINF:-1 channel-id="pluto-60faffc3fbbc120007fc4376" tvg-id="60faffc3fbbc120007fc4376" tvg-logo="https://i.ibb.co/Rpn0Rrf/babyshark.png" tvg-chno="3170" group-title="Premium" , Baby Shark TV
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60faffc3fbbc120007fc4376/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=949fff44-b258-11ee-9039-67540c86de73&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4ecdfec3-b265-4c95-95f0-dffffa891a9f&userId=&serverSideAds=true
 #EXTINF:-1  tvg-id="Bandung TV" tvg-logo="https://i.imgur.com/fpFs6Ay.png" group-title="Indonesia",Bandung TV
 http://202.150.153.254:65500/bandungtvWEBSITE.m3u8?checkedby:iptvcat.org
 #EXTINF:-1  tvg-id="Banten TV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/tbtF40p.png" group-title="Indonesia",Banten TV (720p) [Not 24/7]
@@ -126,6 +128,8 @@ https://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8
 #EXTINF:-1  tvg-id="MyKidz.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/mykidz.png?raw=true" group-title="Premium",My Kidz
 https://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8
+#EXTINF:-1 group-title="Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Naruto_logo.svg/2560px-Naruto_logo.svg.png",NARUTO
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0c85bd2c9c10009370984/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c7e374a3-77f8-11ec-8df7-e1b1a799e6b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6dc122c4-9939-4ecc-8331-975968992978&userId=&serverSideAds=true
 #EXTINF:-1  tvg-id="NET.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/net.png?raw=true" group-title="Indonesia",NET.
 https://op-group1-swiftservehd-1.dens.tv/h/h223/index.m3u8
 #EXTINF:-1  tvg-id="NET.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/net.png?raw=true" group-title="Indonesia",NET. 1
@@ -143,6 +147,8 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 #EXTINF:-1  tvg-id="ONE" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.wikia.nocookie.net%2Fdxs%2Fimages%2F6%2F6c%2FOne_TV_Logo_2020.png%2Frevision%2Flatest%3Fcb%3D20220930140930&f=1&nofb=1&ipt=3bc6aa6cb2ed7a8c7c62da053b1a44c05587ee692f56b3278b929ca4f76cb14b&ipo=images" group-title="Premium",ONE
 http://rtmp.one.by:1300
+#EXTINF:-1 group-title="Premium" tvg-logo="https://c3.klipartz.com/pngpicture/969/328/sticker-png-one-piece-anime-icon-v2-one-piece-thumbnail.png",ONE PIECE
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f7790b3ed0c88000720b241/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1  tvg-id="PSJ TV (1080p)" tvg-logo="https://i.postimg.cc/1XSf22bM/PSJTV-LOGO.png" group-title="Indonesia",PSJ TV (1080p)
 https://play.accolamedia.id/accola/psj.stream/playlist.m3u8?checkedby:iptvcat.org
 #EXTINF:-1  tvg-id="RajawaliTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/rtv.png?raw=true" group-title="Indonesia",Rajawali TV
@@ -190,6 +196,9 @@ https://op-group1-swiftservehd-1.dens.tv/h/h20/index.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h214/index.m3u8
 #EXTINF:-1  tvg-id="tvOne.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/tvone.png?raw=true" group-title="Indonesia",tvOne
 https://op-group1-swiftservehd-1.dens.tv/h/h224/index.m3u8
+#EXTINF:-1 tvg-name="TV ONE" tvg-logo="https://hometv.pw/logo/lokal/tvone.png" group-title="Indonesia",TV ONE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
 #EXTINF:-1  tvg-id="tvOne.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/tvone.png?raw=true" group-title="Indonesia",tvOne 1
 https://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8
 #EXTINF:-1  tvg-id="TVR Parlemen (720p) [Not 24/7]" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.wikia.nocookie.net%2Flogopedia%2Fimages%2F2%2F2c%2FTVR_Parlemen.jpg%2Frevision%2Flatest%2Fscale-to-width-down%2F200%3Fcb%3D20220718082041&f=1&nofb=1&ipt=6fabeb2648aa6a12157fd292063e54c31ceab66b16512d37c6d2fad54ac0d08b&ipo=images" group-title="Indonesia",TVR Parlemen (720p) [Not 24/7]
